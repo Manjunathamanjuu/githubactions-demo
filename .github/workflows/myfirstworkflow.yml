@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project,
           wc -l
           ls -l
-          cat/etc/os-release
+          cat /etc/os-release
